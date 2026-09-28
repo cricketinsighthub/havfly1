@@ -879,16 +879,16 @@ img {
   border: 1px solid rgba(255, 255, 255, 0.2);
 }
 
-/* 3 Testimonials Cards Grid - All 3 readable at a glance */
+/* 5 Testimonials Cards Grid - Responsive & Balanced */
 .testimonials-cards-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(310px, 1fr));
   gap: 22px;
   max-width: 1060px;
   margin: 0 auto;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 700px) {
   .testimonials-cards-grid {
     grid-template-columns: 1fr;
     gap: 16px;

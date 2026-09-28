@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
       title: "Director",
       quote: "“We were running a daily ad budget of Rs 2–2.5 lakh, but constant payment issues and account restrictions were stalling our campaigns. We had to juggle 2-3 ad accounts just to keep things moving. Then we found Havfly Advert. Now we manage everything from one account without stress.”",
       kicker: "SCALING RS 2-2.5 LAKH DAILY, <span class=\"text-red\">WITHOUT STRESS.</span>",
-      photo: "assets/narender-bansal.jpg"
+      photo: "assets/narender-bansal.jfif"
     },
     {
       name: "Parveen Singhal",
@@ -23,6 +23,20 @@ document.addEventListener('DOMContentLoaded', () => {
       quote: "“We wanted to scale across India to promote our brand, but account issues held us back. With Havfly Advert’s verified account, we ran high-budget campaigns smoothly and got great results.”",
       kicker: "PAN-INDIA SCALE, <span class=\"text-red\">HIGH-BUDGET SUCCESS.</span>",
       photo: "assets/parveen-singhal.jpg"
+    },
+    {
+      name: "Ankit Singal Bansal",
+      title: "Director",
+      quote: "“We were constantly losing momentum during high-demand sales events due to sudden policy flags and spend restrictions. Switching to Havfly Advert gave us complete stability, instant ad approvals, and unlimited scaling without interruptions.”",
+      kicker: "SEAMLESS SCALING, <span class=\"text-red\">ZERO AD DISRUPTIONS.</span>",
+      photo: "assets/ankit-singal-bansal.jpeg"
+    },
+    {
+      name: "Sahil Goyal",
+      title: "Director",
+      quote: "“Managing multiple accounts with card decline issues was a huge headache. Havfly Advert provided a rock-solid agency account with instant INR top-ups, 100% GST invoicing, and 24/7 dedicated support. Our campaigns have been scaling smoothly ever since.”",
+      kicker: "UNINTERRUPTED CAMPAIGNS, <span class=\"text-red\">INSTANT TOP-UPS & GST.</span>",
+      photo: "assets/sahil-goyal.jpeg"
     }
   ];
 
